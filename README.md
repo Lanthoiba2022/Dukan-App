@@ -16,6 +16,7 @@ This project is a frontend for an e-commerce platform that I came across my lear
 REFERENCES:
 
 React Documentation: https://reactjs.org/docs/getting-started.html
+
 Tailwind CSS Documentation: https://tailwindcss.com/docs
 
 Design reference: https://t.ly/iLUkt
