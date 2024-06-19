@@ -20,3 +20,8 @@ React Documentation: https://reactjs.org/docs/getting-started.html
 Tailwind CSS Documentation: https://tailwindcss.com/docs
 
 Design reference: https://t.ly/iLUkt
+
+## you can checkout the website
+### [Link to Site](https://dukaanpayouts.netlify.app/#)
+
+![Preview](./src/assets/compress-DukanPayouts_LivePreviewSpeedUpComp.mp4) 
