@@ -24,4 +24,4 @@ Design reference: https://t.ly/iLUkt
 ## you can checkout the website
 ### [Link to Site](https://dukaanpayouts.netlify.app/#)
 
-![Preview](./src/assets/compress-DukanPayouts_LivePreviewSpeedUpComp.mp4) 
+![Preview](./src/assets/compress-DukanPayouts_LivePreviewSpeedUpComp-ezgif.com-optimize.gif) 
